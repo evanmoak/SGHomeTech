@@ -1,2 +1,2 @@
-# S-GHomeTech
-Website for S&amp;G Home Tech
+#S&G Home Tech
+
